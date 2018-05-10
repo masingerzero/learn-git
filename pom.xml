@@ -6,7 +6,7 @@
 
     <groupId>org.masinger</groupId>
     <artifactId>learn-git</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.3</version>
     <packaging>jar</packaging>
    
 
