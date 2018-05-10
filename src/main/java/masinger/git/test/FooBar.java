@@ -1,6 +1,8 @@
 package masinger.git.test;
 
 public class FooBar {
+	
+	private String foo;
 
 	private String foo;
 
